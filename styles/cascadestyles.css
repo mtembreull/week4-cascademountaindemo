@@ -49,3 +49,7 @@ nav a {
     background-color: #44a5b5;
     color: white;
 }
+
+nav a:hover {
+    background-color: #344e5f;
+}
