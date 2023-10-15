@@ -46,4 +46,6 @@ nav a {
     display: block;
     width: 100px;
     text-decoration: none;
+    background-color: #44a5b5;
+    color: white;
 }
