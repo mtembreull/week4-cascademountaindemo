@@ -59,3 +59,7 @@ footer {
     padding: 9px;
     background-color: rgba(68,165,181,0.8);
 }
+
+footer p {
+    font-size: 10px;
+}
