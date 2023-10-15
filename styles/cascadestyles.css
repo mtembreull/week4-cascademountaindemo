@@ -25,3 +25,14 @@ header h1 {
     margin-left: 15px;
     font-size: 30px;
 }
+header h2 {
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+nav ul {
+    text-align: center;
+    list-style: none;
+    background-color: #44a5b5;
+    margin-bottom: 15px;
+}
