@@ -100,3 +100,7 @@ figcaption {
 .image-right {
     float: right;
 }
+
+.image-left {
+    float: left;
+}
