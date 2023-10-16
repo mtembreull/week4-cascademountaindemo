@@ -77,7 +77,7 @@ footer p {
     float: left;
 }
 
-.sidebar a {
+.sidebar {
     float: left;
     width: 300px;
     background-color: rgba(255,255,255,0.4);
@@ -85,7 +85,7 @@ footer p {
     padding: 4px;
 }
 
-.sidebar {
+.sidebar a {
     color: #44a5b5;
 }
 
