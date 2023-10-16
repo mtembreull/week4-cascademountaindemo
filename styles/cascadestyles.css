@@ -103,4 +103,5 @@ figcaption {
 
 .image-left {
     float: left;
+    margin-right: 7px;
 }
