@@ -84,3 +84,19 @@ footer p {
     color: #44a5b5;
     padding: 4px;
 }
+
+.sidebar {
+    color: #44a5b5;
+}
+
+figure {
+    margin: 0px;
+}
+
+figcaption {
+    font-size: 10px;
+}
+
+.image-right {
+    float: right;
+}
