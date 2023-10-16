@@ -58,6 +58,7 @@ footer {
     color: white;
     padding: 9px;
     background-color: rgba(68,165,181,0.8);
+    clear: both;
 }
 
 footer p {
